@@ -1,9 +1,9 @@
 <pretext>
 <docinfo>
-    <brandlogo source="PBSC_CREST LOGO-Vert_Green.png" url="https://www.palmbeachstate.edu"/>
+    <!-- <brandlogo source="PBSC_CREST LOGO-Vert_Green.png" url="https://www.palmbeachstate.edu"/> -->
 </docinfo>
 <article xml:id="document" label="document">
-  <title>Fall 2026 MAT 1033C Intermediate Algebra</title>
+  <title>Intermediate Algebra Course Info and FAQ</title>
 
     <section xml:id="general-class-info">
     <title>What is this Course About?</title>
