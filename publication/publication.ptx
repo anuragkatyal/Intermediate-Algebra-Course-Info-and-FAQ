@@ -13,4 +13,10 @@
 
         <!--<journal name="ams" /> -->
     </common>
+
+    <html>
+        <css theme="salem"/>
+        <!-- Send index.html straight to the first section instead of a bare landing/TOC page -->
+        <index-page ref="general-class-info"/>
+    </html>
 </publication>
