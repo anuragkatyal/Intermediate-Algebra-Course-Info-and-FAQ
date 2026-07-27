@@ -15,7 +15,7 @@
     </common>
 
     <html>
-        <css theme="denver" primary-color-dark="#39FF14" color-main="#006756"/>
+        <css theme="denver" primary-color-dark="#F2A900" color-main="#006756"/>
         <!-- Send index.html straight to the first section instead of a bare landing/TOC page -->
         <index-page ref="general-class-info"/>
     </html>
